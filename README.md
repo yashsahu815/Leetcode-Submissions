@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashsahu815/Leetcode-Submissions/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/yashsahu815/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashsahu815/Leetcode-Submissions/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/yashsahu815/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
